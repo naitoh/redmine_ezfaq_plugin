@@ -38,12 +38,12 @@ ja:
   text_faq_updated: FAQ %s は %s　によって更新されました。
   text_faq_pdf_title_not_set: Attention! Please specify PDF title in FAQ Settings first.
 
-  permission_view_faqs: View FAQ
-  permission_add_faqs: New FAQ
-  permission_edit_faqs: Edit FAQ
-  permission_delete_faqs: Delete FAQ
-  permission_manage_faq_categories: Manage FAQ Categories
-  permission_faq_setting: FAQ Settings
+  permission_view_faqs: FAQの閲覧
+  permission_add_faqs: FAQの追加
+  permission_edit_faqs: FAQの編集
+  permission_delete_faqs: FAQの削除
+  permission_manage_faq_categories: FAQのカテゴリの管理
+  permission_faq_setting: FAQの設定
 
   project_module_ezfaq: FAQ
 
